@@ -28,6 +28,7 @@ public class MovieController : Controller
         return View();
     }
 
+
     [HttpPost]
     public IActionResult Create(Movie movie){
         if(!ModelState.IsValid){
@@ -36,6 +37,12 @@ public class MovieController : Controller
         MovieService.Add(movie);
 
         return RedirectToAction("Index");
+    }
+    [HttpDelete]
+    public IActionResult Delete(Movie Code){
+        
+        return RedirectToAction("Index");
+
     }
 
 }

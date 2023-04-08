@@ -3,3 +3,7 @@
 <p>Duracion: @Model.Minutos</p>
 
 <p>@Model.Review</p>
+
+<form method="post" asp-page-handler="delete" asp-route-code="@Model.Code" onsubmit="return confirm('Estas seguro de eliminar esta pelicula?')">
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+</form>
