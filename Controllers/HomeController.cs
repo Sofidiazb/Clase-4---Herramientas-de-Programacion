@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Clase4.Models;
 using Clase3.Services;
+using Practico_1.Models;
 
 namespace Clase4.Controllers;
 

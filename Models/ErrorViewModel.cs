@@ -1,4 +1,4 @@
-namespace Clase4.Models;
+namespace Practico_1.Models;
 
 public class ErrorViewModel
 {

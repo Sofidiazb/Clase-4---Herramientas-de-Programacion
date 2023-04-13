@@ -7,51 +7,51 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Clase4
-build_property.RootNamespace = Clase4
-build_property.ProjectDir = c:\Users\sofia\OneDrive\Documentos\Practico1-HP\
+build_property.RootNamespace = Practico_1
+build_property.RootNamespace = Practico_1
+build_property.ProjectDir = C:\Users\sofia\OneDrive\Documentos\Practico 1\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\sofia\OneDrive\Documentos\Practico1-HP
+build_property.MSBuildProjectDirectory = C:\Users\sofia\OneDrive\Documentos\Practico 1
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/sofia/OneDrive/Documentos/Practico1-HP/Views/Home/Index.cshtml]
+[C:/Users/sofia/OneDrive/Documentos/Practico 1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sofia/OneDrive/Documentos/Practico1-HP/Views/Home/Privacy.cshtml]
+[C:/Users/sofia/OneDrive/Documentos/Practico 1/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sofia/OneDrive/Documentos/Practico1-HP/Views/Movie/Create.cshtml]
+[C:/Users/sofia/OneDrive/Documentos/Practico 1/Views/Movie/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sofia/OneDrive/Documentos/Practico1-HP/Views/Movie/Detail.cshtml]
+[C:/Users/sofia/OneDrive/Documentos/Practico 1/Views/Movie/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sofia/OneDrive/Documentos/Practico1-HP/Views/Movie/index.cshtml]
+[C:/Users/sofia/OneDrive/Documentos/Practico 1/Views/Movie/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVcaW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sofia/OneDrive/Documentos/Practico1-HP/Views/Shared/Error.cshtml]
+[C:/Users/sofia/OneDrive/Documentos/Practico 1/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sofia/OneDrive/Documentos/Practico1-HP/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/sofia/OneDrive/Documentos/Practico 1/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sofia/OneDrive/Documentos/Practico1-HP/Views/_ViewImports.cshtml]
+[C:/Users/sofia/OneDrive/Documentos/Practico 1/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sofia/OneDrive/Documentos/Practico1-HP/Views/_ViewStart.cshtml]
+[C:/Users/sofia/OneDrive/Documentos/Practico 1/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/sofia/OneDrive/Documentos/Practico1-HP/Views/Shared/_Layout.cshtml]
+[C:/Users/sofia/OneDrive/Documentos/Practico 1/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-jbccmwt9ip
+build_metadata.AdditionalFiles.CssScope = b-bmd8yw51c2

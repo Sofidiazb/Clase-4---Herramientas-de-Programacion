@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Clase4")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Practico 1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Clase4")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Clase4")]
+[assembly: System.Reflection.AssemblyProductAttribute("Practico 1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Practico 1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
